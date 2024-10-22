@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Tab Layout App</string>
+
+    <string name="login_title">Welcome Back!</string>
+    <string name="login_desc">Ayo kembali produktif dan jadilah yang terbaik!</string>
+
+    <string name="register_title">Welcome to App!</string>
+    <string name="register_desc">Ayo bergabung bersama kami dan jadilah yang terbaik!</string>
+
+    <string name="edittext_hint_fullname"><font size="13">Full Name</font></string>
+    <string name="edittext_hint_email"><font size="13">Email</font></string>
+    <string name="edittext_hint_nim"><font size="13">NIM</font></string>
+    <string name="edittext_hint_password"><font size="13">Password</font></string>
+    <string name="edittext_hint_confirm_password"><font size="13">Confirm Password</font></string>
+
+    <string name="forgot_password">Lupa password?</string>
+    <string name="login">Login</string>
+
+    <string name="tv_already_have_account">Sudah memiliki akun?</string>
+    <string name="tv_login">Masuk</string>
+
+    <string name="tv_dont_have_an_account">Belum memiliki akun?</string>
+    <string name="register">Register</string>
+
+    <string name="tv_full_name">Full Name</string>
+    <string name="tv_nim">NIM</string>
+
+    <string name="tab_text_1">Login</string>
+    <string name="tab_text_2">Register</string>
+
+    <string name="dashboard">Dashboard</string>
+
+    <string name="tv_verifikasi_logout">Anda yakin ingin keluar?</string>
+    <string name="tv_batal">Batal</string>
+    <string name="tv_ok">OK</string>
+</resources>
